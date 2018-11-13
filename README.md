@@ -13,6 +13,7 @@ This is Framework that made using Python language and Selenium Framework. We use
     - Open CMD and type `python3 –version` to make sure Python3 is installed.
     - Install Python **pip** and **virtualenv*** using tutorial on this site `https://packaging.python.org/guides/installing-using-pip-and-virtualenv/`
 #### 2. install some Library that needed by the Framework
+- Install Selenium library which is the core of this Framework using `pip install selenium`
 - Install PyUnitReport for the HTML Report Plug in by using `pip install PyUnitReport`
 #### 3. Edit some Configuration needed
 - Open the `globalVariable.py` to configure the environment that you are using and also Driver you are using.
